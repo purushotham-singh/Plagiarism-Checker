@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="apiclient" />
+          <option value="asgiref" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="chardet" />
+          <option value="click" />
+          <option value="Django" />
+          <option value="Flask" />
+          <option value="google-api-core" />
+          <option value="google-api-python-client" />
+          <option value="google-auth" />
+          <option value="google-auth-httplib2" />
+          <option value="googleapis-common-protos" />
+          <option value="httplib2" />
+          <option value="idna" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="MarkupSafe" />
+          <option value="protobuf" />
+          <option value="pyasn1" />
+          <option value="pyasn1-modules" />
+          <option value="pytz" />
+          <option value="requests" />
+          <option value="rsa" />
+          <option value="six" />
+          <option value="sqlparse" />
+          <option value="uritemplate" />
+          <option value="urllib3" />
+          <option value="Werkzeug" />
+          <option value="wincertstore" />
+          <option value="PyPDF2" />
+          <option value="python-docx" />
+          <option value="gunicorn" />
+          <option value="nltk" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

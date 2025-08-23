@@ -1,0 +1,12 @@
+🔹 Step 2: Create the environment named plagiarsim
+python3.11 -m venv plagiarsim
+
+🔹 Step 3: Activate the environment
+source plagiarsim/bin/activate
+
+🔹 Step 4: Install Django (and other dependencies)
+pip install --upgrade pip
+pip install django
+
+🔹 Step 4: Run the development server
+python manage.py runserver
